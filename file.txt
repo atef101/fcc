@@ -1,0 +1,16 @@
+Connection: NUE-FRA-43, AMS-NUE-67, FRA-AMS-17, FRA-LHR-27, LHR-NUE-23, NUE-DXB-89, DXB-FRA-105, HKG-NUE-109, PDX-NUE-108, AMS-DXB-99, HKG-AMS-101, LHR-AMS-97, FRA-HKG-100, HKG-FRA-105
+#1: What is the price of the connection NUE-FRA-LHR?
+#2: What is the price of the connection NUE-AMS-LHR?
+#3: What is the price of the connection NUE-FRA-LHR-NUE?
+#4: What is the cheapest connection from NUE to AMS?
+#5: What is the cheapest connection from AMS to FRA?
+#6: What is the cheapest connection form LHR to LHR?
+#7: What is the cheapest connection from AMS to DXB?
+#8: How many different connections with maximum 0 stops exists between NUE and FRA?
+#9: How many different connections with exactly 0 stop exists between LHR and AMS?
+#10: How many different connections with maximum 0 stops exists between FRA and FRA?
+#11: How many different connections with maximum 0 stops exists between HKG and HKG?
+#12: Find all conenctions from NUE to LHR below 170Euros!
+#13: Find all conenctions from NUE to FRA exactly 170Euros!
+#14: Find all conenctions from AMS to LHR above 170Euros!
+
